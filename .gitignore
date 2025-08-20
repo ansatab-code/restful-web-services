@@ -23,9 +23,15 @@
 hs_err_pid*
 replay_pid*
 
+# Build
 target/
-target/*
-.classpath
+
+# Eclipse
 .project
+.classpath
+.settings/
+
+ # macOS
+.DS_Store
 
 
